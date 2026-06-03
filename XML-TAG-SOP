@@ -1,0 +1,49 @@
+# XML-TAG-SOP Framework
+a modular XML-based prompt engineering framework and standard operating procedure (SOP) to eliminate instruction drift in LLMs  prompt-engineering, xml-tags, sop, llm-control, advanced-prompting, aiframework, language-models, generative-ai 
+
+> **The Ultimate Hybrid Prompt Architecture fusing Modular XML Logic, Top-Tier SOP, and CO-STA-RG Principles.**
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/imron-Gkt/XML-TAG-SOP/pulls)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Advanced-orange.svg)](https://www.promptingguide.ai/)
+
+`XML-TAG-SOP` คือกรอบสถาปัตยกรรมคำสั่งขั้นสูง (Advanced Prompt Architecture) ที่ออกแบบมาเพื่อแก้ไขปัญหา **Instruction Drift (AI หลุดโฟกัส)** และ **Context Loss (ข้อมูลตกหล่น)** ในโมเดลภาษาขนาดใหญ่ (LLMs) โดยการเปลี่ยนจากวิธีสั่งงานแบบข้อความร้อยแก้วทั่วไป ให้กลายเป็นระบบปฏิบัติการจำลองเชิงตรรกะที่สามารถตั้งโปรแกรมกระบวนการคิดได้อย่างรัดกุม ($Programmable\,Reasoning\,System$)
+
+---
+
+## 🚀 Core Pillar Capabilities (3 แกนหลักประสานพลัง)
+
+1. **Modular XML Logic (MXL):** ใช้โครงสร้างแท็กปิด-เปิดมาตรฐาน XML เพื่อแบ่งพาร์ติชันความสนใจ (Partitioned Attention Management) ป้องกันข้อจำกัดและกฎขัดแย้งกันเอง
+2. **Top-Tier-Prompt-SOP:** กำหนดขั้นตอนปฏิบัติงานมาตรฐาน (Standard Operating Procedure) บังคับให้ AI ประมวลผลและวิเคราะห์จากต้นตอ (Root Cause Analysis) ก่อนแสดงผลลัพธ์สุดท้าย
+3. **CO-STA-RG Framework Adaptation:** สกัดอารมณ์ บริบทผู้ฟัง และระดับความลึกเชิงจิตวิทยา เพื่อส่งมอบผลลัพธ์ที่นำไปลงมือทำต่อได้ทันที ($Actionable\,Value$)
+
+---
+
+## 🏛️ System Architecture Blueprint (พิมพ์เขียวโครงสร้าง)
+
+```xml
+<hybrid_ai_operating_system>
+  <context_and_audience_layer>
+    <context>...</context>
+    <target_audience>...</target_audience>
+  </context_and_audience_layer>
+  
+  <objective_and_goals>
+    <primary_objective>...</primary_objective>
+    <desired_outcomes>...</desired_outcomes>
+  </objective_and_goals>
+  
+  <guiding_principles_and_style>
+    <priority_hierarchy>...</priority_hierarchy>
+    <style_and_tone>...</style_and_tone>
+  </guiding_principles_and_style>
+  
+  <reasoning_and_sop_engine>
+    <adaptive_expertise>...</adaptive_expertise>
+    <execution_sop>...</execution_sop>
+  </reasoning_and_sop_engine>
+  
+  <quality_assurance_layer>
+    <qa_criteria>...</qa_criteria>
+  </quality_assurance_layer>
+</hybrid_ai_operating_system>
